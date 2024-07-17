@@ -1,6 +1,6 @@
 <?php
 class Database {
-    private static $servername = "localhost";
+    private static $servername = "localhost"; ///
     private static $username = "root";
     private static $password = "";
     private static $dbname = "users";
